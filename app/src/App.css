@@ -1,0 +1,63 @@
+.App {
+  align-items: center;
+  background: #edc4a7;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+input[type='color'],
+input[type='date'],
+input[type='datetime'],
+input[type='datetime-local'],
+input[type='email'],
+input[type='month'],
+input[type='number'],
+input[type='password'],
+input[type='search'],
+input[type='tel'],
+input[type='text'],
+input[type='time'],
+input[type='url'],
+input[type='week'],
+select:focus,
+textarea {
+  font-size: 26px;
+}
+
+.Box {
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 895px;
+  width: 607px;
+}
+
+button {
+  background: linear-gradient(269.05deg, #273a96 0%, #35c4f4 100%);
+  border-radius: 41px;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+  height: 62px;
+  width: 481px;
+}
+
+.inputBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.inputBox input {
+  border: none;
+  border-bottom: 2px solid grey;
+  margin: 20px 70px;
+  padding: 10px;
+}
+
+.Message {
+  margin-top: 40px;
+}
