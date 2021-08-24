@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Music-Industry-Messenger/static/css/main.a42e5868.chunk.css",
+    "main.js": "/Music-Industry-Messenger/static/js/main.9a631903.chunk.js",
+    "main.js.map": "/Music-Industry-Messenger/static/js/main.9a631903.chunk.js.map",
+    "runtime-main.js": "/Music-Industry-Messenger/static/js/runtime-main.c44afc78.js",
+    "runtime-main.js.map": "/Music-Industry-Messenger/static/js/runtime-main.c44afc78.js.map",
+    "static/js/2.76dd9f7e.chunk.js": "/Music-Industry-Messenger/static/js/2.76dd9f7e.chunk.js",
+    "static/js/2.76dd9f7e.chunk.js.map": "/Music-Industry-Messenger/static/js/2.76dd9f7e.chunk.js.map",
+    "static/js/3.92f31521.chunk.js": "/Music-Industry-Messenger/static/js/3.92f31521.chunk.js",
+    "static/js/3.92f31521.chunk.js.map": "/Music-Industry-Messenger/static/js/3.92f31521.chunk.js.map",
+    "index.html": "/Music-Industry-Messenger/index.html",
+    "static/css/main.a42e5868.chunk.css.map": "/Music-Industry-Messenger/static/css/main.a42e5868.chunk.css.map",
+    "static/js/2.76dd9f7e.chunk.js.LICENSE.txt": "/Music-Industry-Messenger/static/js/2.76dd9f7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c44afc78.js",
+    "static/js/2.76dd9f7e.chunk.js",
+    "static/css/main.a42e5868.chunk.css",
+    "static/js/main.9a631903.chunk.js"
+  ]
+}
